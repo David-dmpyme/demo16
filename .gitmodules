@@ -202,3 +202,8 @@
 	path = OCA/event
 	url = git@github.com:OCA/event.git
 	branch = 16.0
+
+[submodule "OCA/field-service"]
+	path = OCA/field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 16.0
