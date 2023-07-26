@@ -152,3 +152,8 @@
 	path = OCA/repair
 	url = git@github.com:OCA/repair.git
 	branch = 16.0
+
+[submodule "OCA/margin-analysis"]
+	path = OCA/margin-analysis
+	url = git@github.com:OCA/margin-analysis.git
+	branch = 16.0
