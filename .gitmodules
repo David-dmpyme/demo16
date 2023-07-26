@@ -207,3 +207,8 @@
 	path = OCA/field-service
 	url = git@github.com:OCA/field-service.git
 	branch = 16.0
+
+[submodule "OCA/rma"]
+	path = OCA/rma
+	url = git@github.com:OCA/rma.git
+	branch = 16.0
