@@ -182,3 +182,8 @@
 	path = OCA/hr-holidays
 	url = git@github.com:OCA/hr-holidays.git
 	branch = 16.0
+
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 16.0
