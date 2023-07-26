@@ -147,3 +147,8 @@
 	path = OCA/stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
 	branch = 16.0
+
+[submodule "OCA/repair"]
+	path = OCA/repair
+	url = git@github.com:OCA/repair.git
+	branch = 16.0
