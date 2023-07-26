@@ -177,3 +177,8 @@
 	path = OCA/product-variant
 	url = git@github.com:OCA/product-variant.git
 	branch = 16.0
+
+[submodule "OCA/hr-holidays"]
+	path = OCA/hr-holidays
+	url = git@github.com:OCA/hr-holidays.git
+	branch = 16.0
