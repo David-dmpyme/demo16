@@ -167,3 +167,8 @@
 	path = OCA/maintenance
 	url = git@github.com:OCA/maintenance.git
 	branch = 16.0
+
+[submodule "OCA/connector-prestashop"]
+	path = OCA/connector-prestashop
+	url = git@github.com:OCA/connector-prestashop.git
+	branch = 16.0
