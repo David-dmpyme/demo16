@@ -267,3 +267,8 @@
 	path = OCA/product-configurator
 	url = git@github.com:OCA/product-configurator.git
 	branch = 16.0
+
+[submodule "OCA/data-protection"]
+	path = OCA/data-protection
+	url = git@github.com:OCA/data-protection.git
+	branch = 16.0
