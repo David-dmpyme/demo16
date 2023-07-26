@@ -227,3 +227,8 @@
 	path = OCA/credit-control
 	url = git@github.com:OCA/credit-control.git
 	branch = 16.0
+
+[submodule "OCA/business-requirement"]
+	path = OCA/business-requirement
+	url = git@github.com:OCA/business-requirement.git
+	branch = 16.0
